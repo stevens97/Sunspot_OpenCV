@@ -27,5 +27,6 @@ This program originally ran in Python 3.7, with the following packages installed
 Sources: 
 ========================================
 
-Chola, C. and Benifa, J.B., 2022. Detection and classification of sunspots via deep convolutional neural network. Global Transitions Proceedings, 3(1), pp.177-182.
-Du Toit, R., Drevin, G., Maree, N. and Strauss, D.T., 2020, January. Sunspot identification and tracking with OpenCV. In 2020 International SAUPEC/RobMech/PRASA Conference (pp. 1-6). IEEE.
+-- Chola, C. and Benifa, J.B., 2022. Detection and classification of sunspots via deep convolutional neural network. Global Transitions Proceedings, 3(1), pp.177-182.
+
+-- Du Toit, R., Drevin, G., Maree, N. and Strauss, D.T., 2020, January. Sunspot identification and tracking with OpenCV. In 2020 International SAUPEC/RobMech/PRASA Conference (pp. 1-6). IEEE.
