@@ -1,4 +1,4 @@
-# Sunspot_Detector
+# Sunspot Detector OpenCV
 
 What this program does:
 ========================================
