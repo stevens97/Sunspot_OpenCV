@@ -1,8 +1,6 @@
 # Sunspot Detector OpenCV
 
-{:refdef: style="width: 10px; height: 10px"}
-[![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)](./somelink)
-{: refdef}
+<img src="url" width="50%" height="50%">
 
 
 What this program does:
