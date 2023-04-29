@@ -1,6 +1,6 @@
 # Sunspot Detector OpenCV
 
-<img src="url" width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/stevens97/Sunspot_Detector_OpenCV/main/Sample.jpg" width="50%" height="50%">
 
 
 What this program does:
