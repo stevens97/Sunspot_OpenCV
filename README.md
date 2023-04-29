@@ -1,7 +1,5 @@
 # Sunspot Detector OpenCV
 
-<a href="url"><img src="[http://url.to/image.png](https://raw.githubusercontent.com/stevens97/Sunspot_Detector_OpenCV/main/Sample.jpg)" align="left" height="48" width="48" ></a>
-
 
 What this program does:
 ========================================
