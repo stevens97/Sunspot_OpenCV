@@ -1,5 +1,7 @@
 # Sunspot Detector OpenCV
 
+![alt text](http://url/to/img.png)
+
 What this program does:
 ========================================
 
