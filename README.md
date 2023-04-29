@@ -1,6 +1,6 @@
 # Sunspot Detector OpenCV
 
-![alt text](http://url/to/img.png)
+![alt text](https://raw.githubusercontent.com/stevens97/Sunspot_Detector_OpenCV/main/Sample.jpg)
 
 What this program does:
 ========================================
