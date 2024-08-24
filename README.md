@@ -1,5 +1,6 @@
 # Sunspot Detector OpenCV
 
+![](https://github.com/stevens97/Sunspot_OpenCV/blob/main/Sample.jpg)
 
 What this program does:
 ========================================
